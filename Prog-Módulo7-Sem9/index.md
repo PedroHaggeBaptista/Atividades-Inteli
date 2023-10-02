@@ -4,7 +4,7 @@
 Os Modelos de Linguagem de Grande Escala (LM's) são verdadeiros tesouros de conhecimento, recheados de informações coletadas durante seu treinamento em enormes bases de dados textuais. Eles têm se mostrado incrivelmente valiosos, ajudando-nos em tarefas como responder perguntas, verificar informações e também conduzir diálogos abertos. Porém, existe um desafio: vivemos em um mundo que está sempre mudando, sempre em plena alteração, e esses modelos, por mais avançados que sejam, podem ficar para trás, com informações obsoletas ou incorretas. Isso é o que chamamos de "concept drift", e é um grande desafio manter esses modelos atualizados e relevantes, assim introduzindo também o conceito de MLOps, que seria a aplicação de DevOps em Machine Learning.
 
 ## Solução Proposta
-### 🖼 Diagrama de Blocos
+### Diagrama de Blocos
 <img src="https://imgur.com/3DQWBGx.png"/>
 
 ### Descrição dos Blocos
