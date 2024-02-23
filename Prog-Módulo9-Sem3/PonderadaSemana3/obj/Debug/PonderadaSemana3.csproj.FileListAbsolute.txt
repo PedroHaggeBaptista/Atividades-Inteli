@@ -1,0 +1,12 @@
+/home/pepehaggeb/RiderProjects/Semana3Hermano/PonderadaSemana3/bin/Debug/PonderadaSemana3.exe
+/home/pepehaggeb/RiderProjects/Semana3Hermano/PonderadaSemana3/bin/Debug/PonderadaSemana3.pdb
+/home/pepehaggeb/RiderProjects/Semana3Hermano/PonderadaSemana3/obj/Debug/PonderadaSemana3.csproj.AssemblyReference.cache
+/home/pepehaggeb/RiderProjects/Semana3Hermano/PonderadaSemana3/obj/Debug/PonderadaSemana3.csproj.CoreCompileInputs.cache
+/home/pepehaggeb/RiderProjects/Semana3Hermano/PonderadaSemana3/obj/Debug/PonderadaSemana3.exe
+/home/pepehaggeb/RiderProjects/Semana3Hermano/PonderadaSemana3/obj/Debug/PonderadaSemana3.pdb
+/home/pepehaggeb/Github/Atividades-Inteli/Prog-Módulo9-Sem3/PonderadaSemana3/bin/Debug/PonderadaSemana3.exe
+/home/pepehaggeb/Github/Atividades-Inteli/Prog-Módulo9-Sem3/PonderadaSemana3/bin/Debug/PonderadaSemana3.pdb
+/home/pepehaggeb/Github/Atividades-Inteli/Prog-Módulo9-Sem3/PonderadaSemana3/obj/Debug/PonderadaSemana3.csproj.AssemblyReference.cache
+/home/pepehaggeb/Github/Atividades-Inteli/Prog-Módulo9-Sem3/PonderadaSemana3/obj/Debug/PonderadaSemana3.csproj.CoreCompileInputs.cache
+/home/pepehaggeb/Github/Atividades-Inteli/Prog-Módulo9-Sem3/PonderadaSemana3/obj/Debug/PonderadaSemana3.exe
+/home/pepehaggeb/Github/Atividades-Inteli/Prog-Módulo9-Sem3/PonderadaSemana3/obj/Debug/PonderadaSemana3.pdb
