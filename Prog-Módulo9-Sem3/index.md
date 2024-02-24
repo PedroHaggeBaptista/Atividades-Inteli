@@ -40,6 +40,10 @@ Foram elaborados três testes para validar o comportamento do método `Debit`:
 2. **Debit_WhenAmountIsLessThanZero_ShouldThrowArgumentOutOfRange**: Assegura que uma exceção é lançada ao tentar debitar um valor negativo.
 3. **Debit_WhenAmountIsMoreThanBalance_ShouldThrowArgumentOutOfRange**: Garante que uma exceção é lançada ao debitar um valor superior ao saldo.
 
+## Execução dos Testes
+![Execução dos testes](https://imgur.com/EmPEUe7.png)
+![Execução dos testes](https://imgur.com/kqdPquO.png)
+
 ## Conclusão
 
 A implementação de um sistema de conta bancária simples em C#, juntamente com testes unitários utilizando NUnit, oferece um entendimento prático dos princípios de POO, como encapsulamento, e destaca a importância dos testes unitários no desenvolvimento de software. A adoção do framework NUnit facilita a criação, execução e manutenção de testes unitários, contribuindo para a qualidade e robustez do software desenvolvido.
