@@ -1,0 +1,11 @@
+scrape_configs:
+  # O nome do job é adicionado como um rótulo `job=<job_name>` a qualquer série temporal raspada desta configuração.
+  - job_name: "prometheus"
+    # Define o intervalo de coleta de métricas para ser muito rápido, para uma demonstração mais responsiva.
+    scrape_interval: 1s
+
+    # metrics_path defaults to '/metrics'
+    # scheme defaults to 'http'.
+
+    static_configs:
+      - targets: ["localhost:5260"]
