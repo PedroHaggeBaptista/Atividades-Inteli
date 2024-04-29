@@ -1,4 +1,8 @@
-# Documentação para rodar o backstage através do docker
+# Introdução
+
+O Backstage, desenvolvido pelo Spotify, é uma plataforma abrangente projetada para simplificar o desenvolvimento, a organização e a descoberta de serviços e ferramentas dentro das empresas. Ele oferece uma base robusta para a gestão de pipelines de CI/CD, visualização de métricas de serviços, acesso à documentação, entre outros recursos. Este documento pretende explorar em detalhes o processo de instalação do Backstage usando Docker, conforme orientações da documentação oficial
+
+# Instruções para rodar o backstage através do docker
 
 ## Instalação das dependências e build
 
