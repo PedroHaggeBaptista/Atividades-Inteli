@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetricsTest", "MetricsTest\MetricsTest.csproj", "{349651CD-2432-434B-AC64-4707AFB31BB3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp", "WebApp\WebApp.csproj", "{78165396-7456-46F2-912D-A7F34814A7A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,6 +20,10 @@ Global
 		{349651CD-2432-434B-AC64-4707AFB31BB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{349651CD-2432-434B-AC64-4707AFB31BB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{349651CD-2432-434B-AC64-4707AFB31BB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78165396-7456-46F2-912D-A7F34814A7A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78165396-7456-46F2-912D-A7F34814A7A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78165396-7456-46F2-912D-A7F34814A7A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78165396-7456-46F2-912D-A7F34814A7A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection

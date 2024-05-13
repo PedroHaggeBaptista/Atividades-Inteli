@@ -284,6 +284,21 @@ Descreva ou inclua screenshots dos resultados de monitoramento, mostrando como a
 - **Impacto das Marcas nas Análises**: Discuta como as marcas podem transformar a análise de dados simples em insights multidimensionais que oferecem uma compreensão mais profunda das operações de negócios.
 - **Desenho e Implementação de Métricas Observáveis**: Forneça orientações sobre como projetar e implementar `ObservableGauges` eficazes que capturam dados dinâmicos e os apresentam de forma significativa.
 
+### 2.6. Desenvolvimento 6
+Nesse desenvolvimento foi realizado em um projeto a parte a secção "Obtenha um Medidor por meio da injeção de dependência", no qual eu criei um WebApp e desenvolvi uma rota para incrementar a métrica que estaria sendo observado pelo dotnet-counters. O código do desenvolvimento 6 se encontra no diretório Atividades-Inteli/Prog-Módulo10-Sem4/ConsoleApp1/WebApp.
+
+No caso eu fiz uma rota no WebApp que incrementa a métrica a cada requisição feita a ela, a rota em questão é um POST em "/complete-sale", e ademais eu adicionei o swagger ao projeto para conseguir realizar a chamada
+
+#### 2.6.1 Prints
+
+Primeiramente eu rodei o projeto através do comando "dotnet run" no diretório do projeto WebApp, e em seguida rodei o comando "dotnet-counters monitor -n WebApp --counters HatCo.Store" para monitorar as métricas, e então fiz uma requisição POST para a rota "/complete-sale" através do swagger.
+![image](./assets/webApp1_2.png)
+
+Após isso eu fiz uma chamada através do Swagger para incrementar a quantidade de vendas, e assim retornei ao terminal para ver o resultado da chamada no dotnet-counters.
+
+![image](./assets/webAppSending.png)
+![image](./assets/webAppSended_2.png)
+
 ## Teste Unitários
 
 Foram realizados os testes das métricas desenvolvidas no código C# utilizando a ferramenta de testes do .NET. Os testes unitários são essenciais para garantir que as métricas estejam sendo coletadas e relatadas corretamente. A execução dos testes unitários é feita através da IDE utilizada para o desenvolvimento que no meu caso foi o Rider da JetBrains no projeto de testes "MetricsTest".
