@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a51b4382_002Da37a_002D4277_002Da6c7_002Dce8443d7eea1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from &amp;lt;MetricsTest&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Project Location="/home/pepehaggeb/Github/Atividades-Inteli/Prog-Módulo10-Sem4/ConsoleApp1/MetricsTest" Presentation="&amp;lt;MetricsTest&amp;gt;" /&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:Boolean x:Key="/Default/Monitoring/Counters/=Microsoft_002DAspNetCore_002DServer_002DKestrel/@EntryIndexedValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/Monitoring/Counters/=Microsoft_002EAspNetCore_002EHosting/@EntryIndexedValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/Monitoring/Counters/=Microsoft_002EAspNetCore_002EHttp_002EConnections/@EntryIndexedValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/Monitoring/Counters/=System_002ERuntime/@EntryIndexedValue">False</s:Boolean>
+	<s:String x:Key="/Default/Monitoring/StartMode/@EntryValue">Disabled</s:String></wpf:ResourceDictionary>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x7SeeHYQA5HjmTY+7JcJziaMKsOXpDNWnXd7grRRmHNwWs41k9bu4h4BQx1d0EUH9mF1kGJ+bV959yjwlHMfJw==",
+  "success": true,
+  "projectFilePath": "/home/pepehaggeb/Github/Atividades-Inteli/Prog-Módulo10-Sem4/ConsoleApp1/ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "/home/pepehaggeb/.nuget/packages/system.diagnostics.diagnosticsource/8.0.1/system.diagnostics.diagnosticsource.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
