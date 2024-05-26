@@ -1,0 +1,12 @@
+/home/pepehaggeb/Github/Atividades-Inteli/Prog-Módulo10-Sem6/Conversor/Temperatura/bin/Debug/net8.0/Temperatura.deps.json
+/home/pepehaggeb/Github/Atividades-Inteli/Prog-Módulo10-Sem6/Conversor/Temperatura/bin/Debug/net8.0/Temperatura.dll
+/home/pepehaggeb/Github/Atividades-Inteli/Prog-Módulo10-Sem6/Conversor/Temperatura/bin/Debug/net8.0/Temperatura.pdb
+/home/pepehaggeb/Github/Atividades-Inteli/Prog-Módulo10-Sem6/Conversor/Temperatura/obj/Debug/net8.0/Temperatura.GeneratedMSBuildEditorConfig.editorconfig
+/home/pepehaggeb/Github/Atividades-Inteli/Prog-Módulo10-Sem6/Conversor/Temperatura/obj/Debug/net8.0/Temperatura.AssemblyInfoInputs.cache
+/home/pepehaggeb/Github/Atividades-Inteli/Prog-Módulo10-Sem6/Conversor/Temperatura/obj/Debug/net8.0/Temperatura.AssemblyInfo.cs
+/home/pepehaggeb/Github/Atividades-Inteli/Prog-Módulo10-Sem6/Conversor/Temperatura/obj/Debug/net8.0/Temperatura.csproj.CoreCompileInputs.cache
+/home/pepehaggeb/Github/Atividades-Inteli/Prog-Módulo10-Sem6/Conversor/Temperatura/obj/Debug/net8.0/Temperatura.sourcelink.json
+/home/pepehaggeb/Github/Atividades-Inteli/Prog-Módulo10-Sem6/Conversor/Temperatura/obj/Debug/net8.0/Temperatura.dll
+/home/pepehaggeb/Github/Atividades-Inteli/Prog-Módulo10-Sem6/Conversor/Temperatura/obj/Debug/net8.0/refint/Temperatura.dll
+/home/pepehaggeb/Github/Atividades-Inteli/Prog-Módulo10-Sem6/Conversor/Temperatura/obj/Debug/net8.0/Temperatura.pdb
+/home/pepehaggeb/Github/Atividades-Inteli/Prog-Módulo10-Sem6/Conversor/Temperatura/obj/Debug/net8.0/ref/Temperatura.dll
