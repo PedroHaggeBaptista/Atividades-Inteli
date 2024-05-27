@@ -13,6 +13,27 @@ Este projeto contém uma classe de conversão de temperatura `ConversorTemperatu
 
 ---
 
+## Função de Conversão de Temperatura
+
+### Descrição
+
+A classe `ConversorTemperatura` contém a função `FahrenheitParaCelsius` que converte uma temperatura de Fahrenheit para Celsius. O código da função é simples e direto, realizando a conversão de acordo com a fórmula matemática padrão.
+
+### Código da Função
+```csharp
+using System;
+
+namespace Temperatura
+{
+    public static class ConversorTemperatura
+    {
+        public static double FahrenheitParaCelsius(double temperatura)
+            //=> (temperatura - 32) / 1.8; // Simulação de falha
+            => Math.Round((temperatura - 32) / 1.8, 2);
+    }
+}
+```
+
 ## Testes com xUnit
 
 ### Descrição
